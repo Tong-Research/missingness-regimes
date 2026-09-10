@@ -1,0 +1,9 @@
+rep,gamma,alignment,selfmask,n_indicators_with_parent,n_parent_pairs,share_affected,share_child,n_affected,standin,miss_rate
+38,0.0,aligned,0,0,0,nan,nan,12,0,0.46870416666666664
+38,0.0,closed,0,1,1,1.0,0.0,12,0,0.46870416666666664
+38,1.0,aligned,0,1,1,1.0,1.0,12,2,0.46870416666666664
+38,1.0,closed,0,2,2,1.0,0.5,12,0,0.46870416666666664
+38,2.0,aligned,0,4,4,1.0,1.0,12,6,0.46870416666666664
+38,2.0,closed,0,0,0,nan,nan,12,0,0.46870416666666664
+38,1.0,aligned,1,7,8,1.0,0.375,12,3,0.492475
+38,1.0,closed,1,5,7,1.0,0.5714285714285714,12,0,0.492875
