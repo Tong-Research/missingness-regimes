@@ -45,6 +45,8 @@ COINCIDENTAL = {
     ("StandinControl", "0.10"): "the majority baseline over ten hospitals, not the stand-in's value",
     ("WhEicuWithin", "0.934"): "the first of three triple-agreement rates; the same number by construction",
     ("MimicDep", "0.933"): "the upper end of the 0.872-0.933 range, which is MIMIC's own value",
+    ("CtPoolOne", "0.010"): "the upper end of MVPC's 0.006-0.010 false-positive rate under a corrected "
+                            "release, not the pooled indicator-value correlation at gamma 1",
 }
 
 
